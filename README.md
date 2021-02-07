@@ -1,2 +1,2 @@
 # muhira
-## Insights on the Burundian music scene
+### Insights on the Burundian music scene
