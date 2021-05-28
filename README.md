@@ -1,5 +1,5 @@
 # muhira
-### Insights on the Burundian music scene
+### Insights on Burundi music analytics
 #### Data acquisition
 #### Data pre-processing
 #### Analysis of YouTube channels statistics
